@@ -1,0 +1,1 @@
+This model will be used to predict bounding boxes for some birds which will be compared with reference boxes of the same bird images. Model performance can computed based on the proportion of images that achieved an iou score greater or equal to 0.5 with the reference boxes.
